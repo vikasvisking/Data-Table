@@ -3,7 +3,7 @@
 This project is totally made of using HTMl,CSS,Bootrap and Javascript.
 it page is to change your Excel files with extentions xls files into a table in html which will be render on the same page.
 
-#Key Features
+# Key Features
 
 * Creating HTMl table from excel file.
 * Sorting in coloums.
